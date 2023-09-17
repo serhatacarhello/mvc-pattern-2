@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "ae2c40be-10d9-4aa6-93ff-7ee743b8669d",
+      "date": "2023-09-17T19:36:45.054Z",
+      "user": "oluptatibus",
+      "title": "doloremque officia exercitationem",
+      "body": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora\n        reprehenderit impedit corporis quam quisquam non temporibus archi"
+    },
+    {
+      "id": "ace68a25-2202-4056-baab-661cb6bd6d44",
+      "date": "2023-09-17T19:37:32.725Z",
+      "user": "ipsum dolor ",
+      "title": "ilique beatae",
+      "body": " doloremque officia exercitationem\n        veritatis. Odio dolorem ex voluptatibus itaque!ilique beatae\n"
+    },
+    {
+      "id": "65e5708e-e643-4c04-a7b8-2e7fd3735da7",
+      "date": "2023-09-17T19:38:08.470Z",
+      "user": "libero maiores",
+      "title": " possimus eligendi.",
+      "body": "Lorem ipsum dolor sit amet\n        consectetur adipisicing elit. Quidem dignissimos quod libero maiores\n        esse distinctio cum perferen"
+    },
+    {
+      "id": "cdcd6cd5-010a-4e90-bcd5-1ba46cfde561",
+      "date": "2023-09-17T19:38:40.921Z",
+      "user": " Odio dolorem",
+      "title": "Lorem ipsum dolor sit amet         ",
+      "body": "ae Lorem ipsum dolor sit amet\n        consectetur adipisicing elit. Quidem dignissimos quod libero maiores\n        esse distinctio cum perfe"
+    }
+  ]
+}
